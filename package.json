@@ -20,7 +20,13 @@
     "test": "vitest run"
   },
   "dependencies": {
-    "electron-updater": "^6.3.9"
+    "@types/dva": "^1.0.2",
+    "@types/react-redux": "^7.1.34",
+    "antd": "^5.27.4",
+    "dva-core": "^1.6.0-beta.7",
+    "dva-loading": "^3.0.25",
+    "electron-updater": "^6.3.9",
+    "react-redux": "^9.2.0"
   },
   "devDependencies": {
     "@playwright/test": "^1.48.2",
